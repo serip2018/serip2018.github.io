@@ -503,27 +503,27 @@ li
 	color: #000;
 }
 /* ------------------------------------------------------------------------------
-	 Testimonials
+	 Sponsors
 -------------------------------------------------------------------------------*/
-.testimonials {
+.sponsors {
 	width: 94%;
 	margin: auto;
 	background-color: #333;
 	position: relative;
 	text-align: center;
 }
-.testimonials blockquote {
+.sponsors blockquote {
 	border: 0;
 	margin: 0;
 	padding: 100px 15%;
 }
-.testimonials h1 {
+.sponsors h1 {
 	color: #fff;
 	font: 19px "Open Sans", sans-serif;
 	font-weight: 300;
 	letter-spacing: 1px;
 }
-.testimonials p {
+.sponsors p {
 	color: #fff;
 	display: block;
 	font-size: 11px;
