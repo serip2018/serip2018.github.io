@@ -503,37 +503,6 @@ li
 	color: #000;
 }
 /* ------------------------------------------------------------------------------
-	 Sponsors
--------------------------------------------------------------------------------*/
-.sponsors {
-	width: 94%;
-	margin: auto;
-	background-color: #333;
-	position: relative;
-	text-align: center;
-}
-.sponsors blockquote {
-	border: 0;
-	margin: 0;
-	padding: 100px 15%;
-}
-.sponsors h1 {
-	color: #fff;
-	font: 19px "Open Sans", sans-serif;
-	font-weight: 300;
-	letter-spacing: 1px;
-}
-.sponsors p {
-	color: #fff;
-	display: block;
-	font-size: 11px;
-	font-style: normal;
-	letter-spacing: 2px;
-	font-weight: 400;
-	margin-top: 30px;
-	text-transform: uppercase;
-}
-/* ------------------------------------------------------------------------------
 	 Footer
 -------------------------------------------------------------------------------*/
 .footer {
@@ -578,30 +547,30 @@ li
 	margin: 0 2px;
 }
 /* ------------------------------------------------------------------------------
-	 Work Detial 
+	 Sponsors
 -------------------------------------------------------------------------------*/
 
-.work-detail {
+.sponsors-detail {
 	width: 94%;
 	margin: auto;
 }
-.work-detail-margin {
+.sponsors-detail-margin {
 	margin-top: 7%;
 }
-.detail-image img {
+.sponsors-image img {
 	width: 100%;
 }
-.detail-contentbox {
+.sponsors-contentbox {
 	background-color: #f1f1f8;
 	padding: 3%;
 }
-.detail-content h4 {
+.sponsors-content h4 {
 	font-size: 27px;
 	line-height: 27px;
 	letter-spacing: 1px;
 	font-weight: 300;
 }
-.detail-content p {
+.sponsors-content p {
 	color: #6c7279;
 	font-size: 13px;
 	font-weight: 400;
