@@ -358,7 +358,7 @@ li
 -------------------------------------------------------------------------------*/
 .services {
 	width: 94%;
-	margin: auto;
+	margin: 10px;
 	background-color: #f1f1f8;
 }
 .services h4 {
@@ -400,7 +400,7 @@ li
 
 .organizers {
 	width: 94%;
-	margin: auto;
+	margin: 10px;
 	background-color: #e4e4f1;
 }
 .organizers h4 {
@@ -438,7 +438,7 @@ li
 -------------------------------------------------------------------------------*/
 .topics {
 	width: 94%;
-	margin: auto;
+	margin: 10px;
 	background-color: #ffffff;
 }
 .topics h4 {
@@ -475,7 +475,7 @@ li
 -------------------------------------------------------------------------------*/
 .committee {
 	width: 94%;
-	margin: auto;
+	margin: 10px;
 	background-color: #ffffff;
 }
 .committee h4 {
@@ -510,7 +510,7 @@ li
 -------------------------------------------------------------------------------*/
 .footer {
 	width: 94%;
-	margin: auto;
+	margin: 10px;
 	text-align: left;
 	padding-top: 5%;
 	padding-bottom: 7%;
@@ -558,7 +558,7 @@ li
 
 .sponsors {
 	width: 94%;
-	margin: auto;
+	margin: 10px;
 	background-color: #e4e4f1;
 }
 .sponsors h4 {
@@ -596,7 +596,7 @@ li
 -------------------------------------------------------------------------------*/
 .past {
 	width: 94%;
-	margin: auto;
+	margin: 10px;
 	background-color: #ffffff;
 }
 .past h4 {
