@@ -403,6 +403,7 @@ li
 	margin: auto;
 	background-color: #e4e4f1;
 }
+
 .organizers h4 {
 	margin: 10px;
 	font-size: 33px;
@@ -410,12 +411,13 @@ li
 	letter-spacing: 2px;
 	font-weight: 300;
 }
+
 .organizers h5 {
 	font-size: 21px;
 	font-weight: 300;
-	margin-bottom: 10%;
 	text-transform: none;
 }
+
 .organizers p {
 	color: #6c7279;
 	font-size: 13px;
