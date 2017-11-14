@@ -319,7 +319,7 @@ li
 	bottom: 15%;
 	color: #fff;
 	left: 15%;
-	padding-bottom: 20px;
+	padding-bottom: 10px;
 	padding-top: 20px;
 	position: absolute;
 	right: 15%;
@@ -380,7 +380,7 @@ li
 	margin-top: 7%;
 }
 .services-content {
-	margin: 50px;
+	margin: 20px;
 }
 .services-content li a {
 	color: #6c7279;
@@ -422,7 +422,7 @@ li
 	margin-top: 7%;
 }
 .organizers-content {
-	margin: 50px;
+	margin: 20px;
 }
 .organizers-content li a {
 	color: #6c7279;
@@ -458,7 +458,7 @@ li
 	margin-top: 7%;
 }
 .topics-content {
-	margin: 50px;
+	margin: 20px;
 }
 .topics-content li a {
 	color: #6c7279;
@@ -493,7 +493,7 @@ li
 	font-weight: 400;
 }
 .committee-content {
-	margin: 50px;
+	margin: 20px;
 }
 .committee-content li a {
 	color: #6c7279;
@@ -603,7 +603,7 @@ li
 	font-weight: 400;
 }
 .past-content {
-	margin: 50px;
+	margin: 20px;
 }
 .past-content li a {
 	color: #6c7279;
