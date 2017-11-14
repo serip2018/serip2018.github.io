@@ -362,6 +362,7 @@ li
 	background-color: #f1f1f8;
 }
 .services h4 {
+	margin: 10px;
 	font-size: 33px;
 	line-height: 33px;
 	letter-spacing: 2px;
@@ -403,7 +404,7 @@ li
 	background-color: #e4e4f1;
 }
 .organizers h4 {
-	margin: 50px;
+	margin: 10px;
 	font-size: 33px;
 	line-height: 33px;
 	letter-spacing: 2px;
@@ -441,6 +442,7 @@ li
 	background-color: #ffffff;
 }
 .topics h4 {
+	margin: 10px;
 	font-size: 33px;
 	line-height: 33px;
 	letter-spacing: 2px;
@@ -477,6 +479,7 @@ li
 	background-color: #ffffff;
 }
 .committee h4 {
+	margin: 10px;
 	font-size: 33px;
 	line-height: 33px;
 	letter-spacing: 2px;
@@ -513,6 +516,7 @@ li
 	padding-bottom: 7%;
 }
 .footer h4 {
+	margin: 10px;
 	font-size: 13px;
 	color: #000;
 	margin: 0 0 15px 0;
@@ -558,7 +562,7 @@ li
 	background-color: #e4e4f1;
 }
 .sponsors h4 {
-	margin: 50px;
+	margin: 10px;
 	font-size: 33px;
 	line-height: 33px;
 	letter-spacing: 2px;
@@ -596,6 +600,7 @@ li
 	background-color: #ffffff;
 }
 .past h4 {
+	margin: 10px;
 	font-size: 33px;
 	line-height: 33px;
 	letter-spacing: 2px;
