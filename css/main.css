@@ -546,37 +546,46 @@ li
 	font-size: 11px;
 	margin: 0 2px;
 }
+
+
 /* ------------------------------------------------------------------------------
 	 Sponsors
 -------------------------------------------------------------------------------*/
 
-.sponsors-detail {
+.sponsors {
 	width: 94%;
 	margin: auto;
+	background-color: #e4e4f1;
 }
-.sponsors-detail-margin {
-	margin-top: 7%;
-}
-.sponsors-image img {
-	width: 100%;
-}
-.sponsors-contentbox {
-	background-color: #f1f1f8;
-	padding: 3%;
-}
-.sponsors-content h4 {
-	font-size: 27px;
-	line-height: 27px;
-	letter-spacing: 1px;
+.sponsors h4 {
+	margin: 50px;
+	font-size: 33px;
+	line-height: 33px;
+	letter-spacing: 2px;
 	font-weight: 300;
 }
-.sponsors-content p {
+.sponsors h5 {
+	font-size: 21px;
+	font-weight: 300;
+	margin-bottom: 10%;
+	text-transform: none;
+}
+.sponsors p {
 	color: #6c7279;
 	font-size: 13px;
 	font-weight: 400;
 	margin-top: 7%;
 }
-
+.sponsors-content {
+	margin: 20px;
+}
+.sponsors-content li a {
+	color: #6c7279;
+	line-height: 30px;
+}
+.sponsors-content li a:hover {
+	color: #000;
+}
 
 /* ------------------------------------------------------------------------------
 	 Past Workshops
