@@ -631,3 +631,24 @@ li
 .past-content li a:hover {
 	color: #000;
 }
+
+
+/* ------------------------------------------------------------------------------
+	 Button Style
+-------------------------------------------------------------------------------*/
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #3d3d3d;
+  font-size: 38px;
+  background: #c2c2c2;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #d4d4d4;
+  text-decoration: none;
+}
