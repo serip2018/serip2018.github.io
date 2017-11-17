@@ -97,7 +97,11 @@ li
 	color: #6c7279;
 }
 .section {
-	padding: 100px 0 0 0;
+	padding: 0;
+}
+
+.section-head {
+	padding: 100px;
 }
 .no-padding {
 	padding: 0;
