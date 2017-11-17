@@ -381,7 +381,7 @@ li
 	margin-top: 7%;
 }
 .services-content {
-	margin: 50px;
+	margin: 0 50px 50px 0;
 }
 .services-content li a {
 	color: #6c7279;
@@ -425,7 +425,7 @@ li
 	margin-top: 7%;
 }
 .organizers-content {
-	margin: 50px;
+	margin: 0 50px 50px 0;
 }
 .organizers-content li a {
 	color: #6c7279;
@@ -463,7 +463,7 @@ li
 	width: 100%;
 }
 .topics-content {
-	margin: 50px;
+	margin: 0 50px 50px 0;
 }
 .topics-content li a {
 	color: #6c7279;
@@ -499,7 +499,7 @@ li
 	font-weight: 400;
 }
 .committee-content {
-	margin: 50px;
+	margin: 0 50px 50px 0;
 }
 .committee-content li a {
 	color: #6c7279;
