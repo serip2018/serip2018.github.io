@@ -11,7 +11,7 @@
 	 Typography
 -------------------------------------------------------------------------------*/
 p {
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 22.4px;
 	color: #6c7279;
 }
@@ -60,7 +60,7 @@ body {
 	color: #6c7279;
 }
 ul, ol {
-	font-size: 12px;
+	font-size: 16px;
 	line-height: 22.4px;
 	color: #6c7279;
 	margin: 0;
@@ -68,7 +68,7 @@ ul, ol {
 }
 
 .showList {
-	font-size: 12px;
+	font-size: 16px;
 	line-height: 22.4px;
 	list-style-type: square;
 	color: #3b4249;
@@ -450,7 +450,7 @@ li
 }
 .topics p {
 	color: #6c7279;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: 400;
 	margin-top: 7%;
 	width: 100%;
@@ -488,7 +488,7 @@ li
 }
 .committee p {
 	color: #6c7279;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: 400;
 }
 .committee-content {
@@ -572,7 +572,7 @@ li
 }
 .sponsors p {
 	color: #6c7279;
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: 400;
 	margin-top: 7%;
 }
