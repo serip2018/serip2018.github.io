@@ -314,11 +314,22 @@ li
 	font-family: "Open Sans", sans-serif;
 	color: #2d3033;
 	text-shadow: none;
+	font-size: 26px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+}
+
+.carousel-caption h4 {
+	font-family: "Open Sans", sans-serif;
+	color: #2d3033;
+	text-shadow: none;
 	font-size: 28px;
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 4px;
 }
+
 .carousel-caption p {
 	font-family: "Open Sans", sans-serif;
 	color: #6c7279;
