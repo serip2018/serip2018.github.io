@@ -293,7 +293,7 @@ li
 
 .carousel {
 	width: 94%;
-	height: 300px;
+	height: 400px;
 	margin: auto;
 }
 .item, .active, .carousel-inner {
@@ -324,7 +324,7 @@ li
 	color: #2d3033;
 	text-shadow: none;
 	font-size: 28px;
-	font-weight: 700;
+	font-weight: 500;
 	text-transform: uppercase;
 }
 
