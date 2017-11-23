@@ -3,9 +3,14 @@
 	width: 90%;
 }
 	
-#header .h3 .h4 {
+.carousel-caption h3 {
 	size: 24px;
 }
+	
+.carousel-caption h4 {
+	size: 18px;
+}
+	
 .nav-toggle {
 	display: block;
 }
