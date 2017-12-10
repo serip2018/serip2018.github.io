@@ -46,7 +46,7 @@ h5 {
 	 Screen Announcment
 -------------------------------------------------------------------------------*/
 #dimScreen {
-	position:fixed;
+	position:absolute;
 	padding:0;
 	margin:0;
 
