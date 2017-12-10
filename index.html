@@ -15,7 +15,18 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
-$('#dimScreen').delay(5000).fadeOut(400)
+$(document).ready(function() {    
+$("body").click(function () {
+        $("#dimScreen").fadeOut("slow");
+    });
+    
+    
+    setTimeout(function(){
+        $("#dimScreen").fadeOut("slow");
+    },5000)
+    
+
+});
 </script>
 
 </head>
@@ -23,7 +34,7 @@ $('#dimScreen').delay(5000).fadeOut(400)
 <body>
 <!-- Paper Award Announcement Section -->
 <div id="dimScreen">
-	<div id="text">SER&IP is happy to announce the IEEE Software Best Paper Award again this year!</p>
+	<div id="text">SER&amp;IP is happy to announce the IEEE Software Best Paper Award again this year!</div>
 </div>
 <!-- Header Section -->
 <section class="tophead" role="tophead"> 
