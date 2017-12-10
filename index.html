@@ -15,9 +15,18 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
-setTimeout(function() {
-  $("#dimScreen").fadeOut().empty();
-}, 2500);
+	setTimeout(function() {
+	  $("#dimScreen").fadeOut().empty();
+	}, 4500);
+
+	$(body).click(function(e)
+	{
+	   $('#dimScreen').slideUp('fast');
+	});
+	$('#dimScreen').click(function(e)
+	{
+	   e.stopPropagation();
+	});
 </script>
 
 </head>
