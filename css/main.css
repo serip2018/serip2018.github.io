@@ -530,6 +530,45 @@ li
 .committee-content li a:hover {
 	color: #000;
 }
+
+* ------------------------------------------------------------------------------
+	 Sponsors
+-------------------------------------------------------------------------------*/
+
+.keynotes {
+	width: 94%;
+	margin: auto;
+	background-color: #e4e4f1;
+}
+.keynotes h4 {
+	margin: 10px;
+	font-size: 29px;
+	line-height: 33px;
+	letter-spacing: 2px;
+	font-weight: 300;
+}
+.keynotes h5 {
+	font-size: 21px;
+	font-weight: 300;
+	text-transform: none;
+}
+.keynotes p {
+	color: #6c7279;
+	font-size: 16px;
+	font-weight: 400;
+	margin-top: 7%;
+}
+.keynotes-content {
+	margin: 50px;
+}
+.keynotes-content li a {
+	color: #6c7279;
+	line-height: 30px;
+}
+.keynotes-content li a:hover {
+	color: #000;
+}
+
 /* ------------------------------------------------------------------------------
 	 Footer
 -------------------------------------------------------------------------------*/
