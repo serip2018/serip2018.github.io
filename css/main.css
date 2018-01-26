@@ -532,14 +532,15 @@ li
 }
 
 * ------------------------------------------------------------------------------
-	 Sponsors
+	 Keynotes
 -------------------------------------------------------------------------------*/
 
 .keynotes {
 	width: 94%;
 	margin: auto;
-	background-color: #e4e4f1;
+	background-color: #f1f1f8;
 }
+
 .keynotes h4 {
 	margin: 10px;
 	font-size: 29px;
@@ -547,19 +548,20 @@ li
 	letter-spacing: 2px;
 	font-weight: 300;
 }
+
 .keynotes h5 {
 	font-size: 21px;
 	font-weight: 300;
 	text-transform: none;
 }
+
 .keynotes p {
 	color: #6c7279;
 	font-size: 16px;
 	font-weight: 400;
-	margin-top: 7%;
 }
 .keynotes-content {
-	margin: 50px;
+	margin: 0 50px 50px 0;
 }
 .keynotes-content li a {
 	color: #6c7279;
